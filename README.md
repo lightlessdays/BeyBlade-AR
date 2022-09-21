@@ -16,7 +16,9 @@ Also make sure to give Camera permissions to the app. It is disabled by default.
 
 For android versions 6.0 and above, you can download the game from here: [Download APK](https://github.com/lightlessdays/AR-BeyBlade/blob/main/Assets/build.apk?raw=true)
 
-## 💻 Networking Logic
+Since I do not have a Mac, I cannot add the iOS files here. If you have one, you may add it here and submit a pull request. You can download the Unity Package from releases.
+
+## 💻 About Photon
 
 This game uses Photon PUN for networking. Photon Unity Networking (PUN) is a Unity package for multiplayer games. Flexible matchmaking gets your players into rooms where objects can be synced over the network. The PUN package wraps up three layers of APIs:
 
@@ -26,8 +28,46 @@ This game uses Photon PUN for networking. Photon Unity Networking (PUN) is a Uni
 
 👉 The lowest level is made up of DLL files, which contain the de/serialization, protocols and such.
 
-## 🎮 Game Logic
+## 🎮 About AR Foundation
 
+AR Foundation is a cross-platform framework that allows you to build augmented reality experiences once, then build for either Android or iOS devices. AR Foundation is a set of MonoBehaviours and APIs for dealing with devices that support the following concepts:
 
+👉 Device tracking: track the device's position and orientation in physical space.
 
-## Augmented Reality Networking Logic
+👉 Plane detection: detect horizontal and vertical surfaces.
+
+👉 Point clouds, also known as feature points.
+
+👉 Anchor: an arbitrary position and orientation that the device tracks.
+
+👉 Light estimation: estimates for average color temperature and brightness in physical space.
+
+👉 Environment probe: a means for generating a cube map to represent a particular area of the physical environment.
+
+👉 Face tracking: detect and track human faces.
+
+👉 2D image tracking: detect and track 2D images.
+
+👉 3D object tracking: detect 3D objects.
+
+👉 Meshing: generate triangle meshes that correspond to the physical space.
+
+👉 Body tracking: 2D and 3D representations of humans recognized in physical space.
+
+👉 Colaborative participants: track the position and orientation of other devices in a shared AR experience.
+
+👉 Human segmentation: determines a stencil texture and depth map of humans detected in the camera image.
+
+👉 Raycast: queries physical surroundings for detected planes and feature points.
+
+👉 Pass-through video: optimized rendering of mobile camera image onto touch screen as the background for AR content.
+
+👉 Session management: manipulation of the platform-level configuration automatically when AR Features are enable or disabled.
+
+👉 Occlusion: allows for occlusion of virtual content by detected environmental depth (environment occlusion) or by detected human depth (human occlusion).
+
+## ✨ Credits
+
+Graphics: IronHead Games
+Sounds and VFX: Tefvik
+Scripting: Dhruv Badaya
