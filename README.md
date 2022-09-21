@@ -7,12 +7,13 @@ BeyBlade GO (the name was of course inspired from Pokemon GO) is a multiplayer a
 1. **Attack Type:** These Beyblades specialize in attacking other Beyblades. They battle fiercely and try to knock out the other Beyblade as fast as they can, but at the cost of having poor stamina. 
 2. **Defense Type:** These Beyblades have more stamina as compared to Attack type Beyblades. They attack less fiercely resulting in less damage to the oppenent. However, they can also withstand the attacks of the opponent much more as compared to Attack type Beyblades.
 
-# Download the Game
+## Download the Game
 
+``` Make sure that your device is compatible with ARCore. Also make sure to give Camera permissions to the app. It is disabled by default. ```
 For android versions 6.0 and above, you can download the game from here: [Download APK](https://github.com/lightlessdays/AR-BeyBlade/blob/main/Assets/build.apk?raw=true)
 
-# Game Logic
+## Game Logic
 
-# Networking Logic
+## Networking Logic
 
-# Augmented Reality Networking Logic
+## Augmented Reality Networking Logic
