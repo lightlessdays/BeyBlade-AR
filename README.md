@@ -9,7 +9,10 @@ BeyBlade GO (the name was of course inspired from Pokemon GO) is a multiplayer a
 
 ## Download the Game
 
-``` Make sure that your device is compatible with ARCore. Also make sure to give Camera permissions to the app. It is disabled by default. ```
+``` 
+Make sure that your device is compatible with ARCore. Also make sure to give Camera permissions to the app. It is disabled by default. 
+```
+
 For android versions 6.0 and above, you can download the game from here: [Download APK](https://github.com/lightlessdays/AR-BeyBlade/blob/main/Assets/build.apk?raw=true)
 
 ## Game Logic
