@@ -66,10 +66,3 @@ AR Foundation is a cross-platform framework that allows you to build augmented r
 
 👉 Occlusion: allows for occlusion of virtual content by detected environmental depth (environment occlusion) or by detected human depth (human occlusion).
 
-## ✨ Credits
-
-Graphics: IronHead Games
-
-Sounds and VFX: Tefvik
-
-Scripting: Dhruv Badaya
