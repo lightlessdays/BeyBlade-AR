@@ -16,13 +16,15 @@ Also make sure to give Camera permissions to the app. It is disabled by default.
 
 For android versions 6.0 and above, you can download the game from here: [Download APK](https://github.com/lightlessdays/AR-BeyBlade/blob/main/Assets/build.apk?raw=true)
 
-##  🖧 Networking Logic
+## 💻 Networking Logic
 
 This game uses Photon PUN for networking. Photon Unity Networking (PUN) is a Unity package for multiplayer games. Flexible matchmaking gets your players into rooms where objects can be synced over the network. The PUN package wraps up three layers of APIs:
 
-The highest level is the PUN code, which implements Unity-specific features like networked objects, RPCs and so on.
-The second level contains the logic to work with Photon servers, do matchmaking, callbacks and such. This is the Realtime API. This can be used on it's own already. You will notice a lot of overlap of topics between PUN and the Realtime API (a.k.a. LoadBalancing API) but that's fine.
-The lowest level is made up of DLL files, which contain the de/serialization, protocols and such.
+👉 The highest level is the PUN code, which implements Unity-specific features like networked objects, RPCs and so on.
+
+👉 The second level contains the logic to work with Photon servers, do matchmaking, callbacks and such. This is the Realtime API.
+
+👉 The lowest level is made up of DLL files, which contain the de/serialization, protocols and such.
 
 ## 🎮 Game Logic
 
