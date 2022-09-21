@@ -69,5 +69,7 @@ AR Foundation is a cross-platform framework that allows you to build augmented r
 ## ✨ Credits
 
 Graphics: IronHead Games
+
 Sounds and VFX: Tefvik
+
 Scripting: Dhruv Badaya
