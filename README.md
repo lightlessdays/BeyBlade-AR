@@ -67,7 +67,7 @@ AR Foundation is a cross-platform framework that allows you to build augmented r
 👉 Occlusion: allows for occlusion of virtual content by detected environmental depth (environment occlusion) or by detected human depth (human occlusion).
 
 ## 📱 Screenshots
-
+<center>
 <img src="https://github.com/HuckenberryApps/BeyBlade-GO/blob/main/Screenshots/1.jpg" width=50%>
 <img src="https://github.com/HuckenberryApps/BeyBlade-GO/blob/main/Screenshots/2.jpg" width=50%>
-<img src="https://github.com/HuckenberryApps/BeyBlade-GO/blob/main/Screenshots/3.jpg" width=50%>
+<img src="https://github.com/HuckenberryApps/BeyBlade-GO/blob/main/Screenshots/3.jpg" width=50%></center>
