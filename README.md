@@ -18,6 +18,13 @@ For android versions 6.0 and above, you can download the game from here: [Downlo
 
 Since I do not have a Mac, I cannot add the iOS files here. If you have one, you may add it here and submit a pull request.
 
+```
+This game has been made with Unity 2019.
+If you are using Unity 2020 or above, make sure to change your Unity Version.
+```
+
+You can download the Unity Project from here: [Download UnityProject.zip](https://github.com/lightlessdays/BeyBlade-AR/releases/download/v1.0/UnityProject.zip)
+
 ## 💻 About Photon
 
 This game uses Photon PUN for networking. Photon Unity Networking (PUN) is a Unity package for multiplayer games. Flexible matchmaking gets your players into rooms where objects can be synced over the network. The PUN package wraps up three layers of APIs:
