@@ -16,6 +16,11 @@ Also make sure to give Camera permissions to the app. It is disabled by default.
 
 For android versions 6.0 and above, you can download the game from here: [Download APK](https://github.com/lightlessdays/AR-BeyBlade/blob/main/Assets/build.apk?raw=true)
 
+```
+Make sure that your device is compatible with ARKit. 
+Also, give camera permissions to the app.
+```
+
 Since I do not have a Mac, I cannot add the iOS files here. If you have one, you may add it here and submit a pull request.
 
 ```
